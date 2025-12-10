@@ -1,5 +1,3 @@
-package UAS;
-
 public class Penumpang {
     private String nama; // Ditambahkan untuk keperluan simulasi & method turunkanPenumpang
     private int id;
